@@ -1,0 +1,92 @@
+[
+      {
+		"name": "Mono 01",
+		"author": "Dosarts",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mono/master/mono_01.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mono/master/thumb_01.jpeg",
+		"dimensions": "1080x2160",
+		"copyright": "Unknown",
+		"collections": "mono dark"
+	},
+      {
+		"name": "Mono 02",
+		"author": "Dosarts",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mono/master/mono_02.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mono/master/thumb_02.jpeg",
+		"dimensions": "1080x2160",
+		"copyright": "Unknown",
+		"collections": "mono light"
+	},
+      {
+		"name": "Mono 03",
+		"author": "Dosarts",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mono/master/mono_03.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mono/master/thumb_03.jpeg",
+		"dimensions": "1080x2160",
+		"copyright": "Unknown",
+		"collections": "mono dark"
+	},
+      {
+		"name": "Mono 04",
+		"author": "Dosarts",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mono/master/mono_04.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mono/master/thumb_04.jpeg",
+		"dimensions": "1080x2160",
+		"copyright": "Unknown",
+		"collections": "mono light"
+	},
+      {
+		"name": "Mono 05",
+		"author": "Dosarts",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mono/master/mono_05.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mono/master/thumb_05.jpeg",
+		"dimensions": "1080x2160",
+		"copyright": "Unknown",
+		"collections": "mono dark"
+	},
+      {
+		"name": "Mono 06",
+		"author": "Dosarts",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mono/master/mono_06.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mono/master/thumb_06.jpeg",
+		"dimensions": "1080x2160",
+		"copyright": "Unknown",
+		"collections": "mono light"
+	},
+      {
+		"name": "Mono 07",
+		"author": "Dosarts",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mono/master/mono_08.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mono/master/thumb_08.jpeg",
+		"dimensions": "1080x2160",
+		"copyright": "Unknown",
+		"collections": "mono dark"
+	},
+      {
+		"name": "Mono 08",
+		"author": "Dosarts",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mono/master/mono_08.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mono/master/thumb_08.jpeg",
+		"dimensions": "1080x2160",
+		"copyright": "Unknown",
+		"collections": "mono light"
+	},
+      {
+		"name": "Mono 09",
+		"author": "Dosarts",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mono/master/mono_09.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mono/master/thumb_09.jpeg",
+		"dimensions": "1080x2160",
+		"copyright": "Unknown",
+		"collections": "mono dark"
+	},
+      {
+		"name": "Mono 10",
+		"author": "Dosarts",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mono/master/mono_10.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mono/master/thumb_10.jpeg",
+		"dimensions": "1080x2160",
+		"copyright": "Unknown",
+		"collections": "mono light"
+	}
+]
